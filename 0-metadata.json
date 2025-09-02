@@ -1,0 +1,16 @@
+{
+  "name": "Meme Coin",
+  "symbol": "MEME",
+  "description": "The ultimate test meme coin for fun and experiments on Solana!",
+  "image": "0.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    { "trait_type": "Meme Power", "value": "100%" },
+    { "trait_type": "Fun Level", "value": "Maximum" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "Ht4rxuYFzsrWV1W2NCso3V4pRoRMnSWmAM59AUKRSffw", "share": 100 }
+    ]
+  }
+}
