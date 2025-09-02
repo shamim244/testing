@@ -2,7 +2,7 @@
   "name": "Meme Coin",
   "symbol": "MEME",
   "description": "The ultimate test meme coin for fun and experiments on Solana!",
-  "image": "0.png",
+  "image": "https://raw.githubusercontent.com/shamim244/testing/refs/heads/main/hand-drawn-dogecoin-illustration_23-2149213704.jpg",
   "external_url": "https://example.com",
   "attributes": [
     { "trait_type": "Meme Power", "value": "100%" },
